@@ -1,0 +1,13 @@
+.navbar-container {
+    position: sticky;
+    top: 0;
+    left: 0;
+    right: 0;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: var(--nav-bg-color);
+    color: var(--text-color);
+    height:3rem;
+   
+}

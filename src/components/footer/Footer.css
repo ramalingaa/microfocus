@@ -1,0 +1,7 @@
+.footer-container {
+    width: 100%;
+    background-color: var(--nav-bg-color);
+    position: fixed;
+    bottom: 0;
+    height: 2rem;
+}
