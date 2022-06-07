@@ -4,4 +4,11 @@
     position: fixed;
     bottom: 0;
     height: 2rem;
+    display: flex;
+    align-items: center;
+    justify-content:center;
+}
+.nav-link {
+    color: var(--text-color);
+    text-decoration: none;
 }

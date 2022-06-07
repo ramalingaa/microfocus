@@ -9,5 +9,14 @@
     background-color: var(--nav-bg-color);
     color: var(--text-color);
     height:3rem;
+    padding: 0 1rem;
    
+}
+.navbar-position {
+    display: flex;
+    gap: 0.5rem;
+    align-items: center;
+}
+.current-time-container {
+    width: 4rem;
 }

@@ -12,7 +12,7 @@ const CurrentTime = () => {
         return () => clearInterval(intervalId.current)
     },[])
   return (
-    <div>
+    <div className = "current-time-container">
         {currentTime}
     </div>
   )

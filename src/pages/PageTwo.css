@@ -1,0 +1,15 @@
+.page-two-container {
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+    justify-content: space-between;
+    align-items: flex-start;
+    padding: 1rem;
+
+}
+.back-btn {
+    padding: 0.5rem 1rem;
+    background-color: var( --nav-bg-color);
+    color: var(--text-color);
+    border-radius: 0.5rem
+}
